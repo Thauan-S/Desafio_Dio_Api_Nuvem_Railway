@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (3,'esw','malsse','sawntsos','22'),(4,'esw','malsse','sawntsos','22'),(6,'v2','male','v2','211'),(7,'v1','male','v1','211'),(8,'v1','male','v1','211');
